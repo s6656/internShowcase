@@ -25,7 +25,7 @@ git push origin <your_name>
 8. Add project statement in the comment section.
 9. Create pull request
 
-open browser with https://github.com/ai-techsystems/internShowcase and click on green button with "compare & pull request", press the button, fill in the details and click "Create pull request".
+open browser with https://github.com/ai-techsystems/internShowcase and click on green button with "compare & pull request", press the button, fill in the details and click "Create pull request"
 
 ## Instructional Video with Steps
  
